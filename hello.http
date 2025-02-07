@@ -1,0 +1,8 @@
+POST http://localhost:3000/student/
+content-type: application/json
+
+{
+  "id": 5,
+  "name": "Hina",
+  "tot_marks": 8
+}
